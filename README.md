@@ -13,6 +13,3 @@ Welcome to my GitHub profile! I'm a software engineer from Mauritius, passionate
 - **Languages**: JavaScript, Python, Java, SQL, TypeScript, C#, Dart
 - **Frameworks**: Angular, React, Node.js, Express, DotNet, Next.js, Nest.js, Flutter, Riverpod, Java Springboot, FastApi, Flask, GraphQL
 - **Tools**: Git, Docker, AWS, Microsoft Azure, Firebase, Visual Studio Code, GCP
-
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nrvnujd&show_icons=true&theme=dark)
