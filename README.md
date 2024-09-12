@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello, I'm Nirvan 👋
 
-<!--
-**nrvnujd/nrvnujd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a software engineer from Mauritius, passionate about technology, innovation, and coding.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 I’m currently working on the ICPS Knowledge Network Mobile App and JMD platform
+- 🌱 I’m learning **Microsoft Semantic Kernel**
+- 👯 I’m looking to collaborate on **open-source projects**
+- 📫 Reach me at [nirvanujoodha@gmail.com](mailto:nirvanujoodha@gmail.com)
+- ⚡ Fun fact: I love coding and football!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- **Languages**: JavaScript, Python, Java, SQL, TypeScript, C#, Dart
+- **Frameworks**: Angular, React, Node.js, Express, DotNet, Next.js, Nest.js, Flutter, Riverpod, Java Springboot, FastApi, Flask, GraphQL
+- **Tools**: Git, Docker, AWS, Microsoft Azure, Firebase, Visual Studio Code, GCP
+
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nrvnujde&show_icons=true&theme=dark)
