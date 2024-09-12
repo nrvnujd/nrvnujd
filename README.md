@@ -11,5 +11,5 @@ Welcome to my GitHub profile! I'm a software engineer from Mauritius, passionate
 
 ## 🛠 Skills
 - **Languages**: JavaScript, Python, Java, SQL, TypeScript, C#, Dart
-- **Frameworks**: Angular, React, Node.js, Express, DotNet, Next.js, Nest.js, Flutter, Riverpod, Java Springboot, FastApi, Flask, GraphQL
+- **Frameworks**: Angular, React, Node.js, Express, DotNet, Next.js, Nest.js, Flutter, Android SDK, Riverpod, Java Springboot, FastApi, Flask, GraphQL
 - **Tools**: Git, Docker, AWS, Microsoft Azure, Firebase, Visual Studio Code, GCP
